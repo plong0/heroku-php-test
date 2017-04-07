@@ -1,0 +1,6 @@
+{
+  "name": "Testing Heroku: PHP",
+  "description": "Testing out a simple PHP app on Heroku",
+  "repository": "https://github.com/plong0/heroku-php-test",
+  "addons": ["jawsdb"]
+}
